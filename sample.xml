@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<status software="4.53_4D19" hardware="1.0">
+<hostname>office-180</hostname>
+<serial>AC4:04083</serial>
+<timezone>-6.00</timezone>
+<date>08/12/2024 09:48:49</date>
+<power><failed>07/06/2024 08:00:00</failed>
+<restored>12/27/2008 18:00:22</restored></power>
+<probes>
+<probe>
+ <name>Tmp</name> <value>77.9 </value>
+ <type>Temp</type></probe><probe>
+ <name>pH</name> <value>8.04 </value>
+ <type>pH</type></probe><probe>
+ <name>CRPh</name> <value>6.57 </value>
+ <type>pH</type></probe><probe>
+ <name>Amp_3</name> <value>3.3  </value>
+ <type>Amps</type></probe><probe>
+ <name>Amp_4</name> <value>1.6  </value>
+ <type>Amps</type></probe></probes>
+<outlets>
+<outlet>
+ <name>WhiteLEDs</name>
+ <outputID>0</outputID>
+ <state>OFF</state>
+ <deviceID>base_Var1</deviceID>
+</outlet>
+<outlet>
+ <name>BlueLEDs</name>
+ <outputID>1</outputID>
+ <state>OFF</state>
+ <deviceID>base_Var2</deviceID>
+</outlet>
+<outlet>
+ <name>jebaoPH1</name>
+ <outputID>2</outputID>
+ <state>OFF</state>
+ <deviceID>base_Var3</deviceID>
+</outlet>
+<outlet>
+ <name>jebaoPH2</name>
+ <outputID>3</outputID>
+ <state>OFF</state>
+ <deviceID>base_Var4</deviceID>
+</outlet>
+<outlet>
+ <name>SndAlm_I6</name>
+ <outputID>4</outputID>
+ <state>AOF</state>
+ <deviceID>base_Alarm</deviceID>
+</outlet>
+<outlet>
+ <name>SndWrn_I7</name>
+ <outputID>5</outputID>
+ <state>AOF</state>
+ <deviceID>base_Warn</deviceID>
+</outlet>
+<outlet>
+ <name>EmailAlm_I5</name>
+ <outputID>6</outputID>
+ <state>OFF</state>
+ <deviceID>base_email</deviceID>
+</outlet>
+<outlet>
+ <name>LED1</name>
+ <outputID>7</outputID>
+ <state>AON</state>
+ <deviceID>3_1</deviceID>
+</outlet>
+<outlet>
+ <name>LED2</name>
+ <outputID>8</outputID>
+ <state>AON</state>
+ <deviceID>3_2</deviceID>
+</outlet>
+<outlet>
+ <name>Skimmer</name>
+ <outputID>9</outputID>
+ <state>AON</state>
+ <deviceID>3_3</deviceID>
+</outlet>
+<outlet>
+ <name>CO2Regulator</name>
+ <outputID>10</outputID>
+ <state>AOF</state>
+ <deviceID>3_4</deviceID>
+</outlet>
+<outlet>
+ <name>stuckON</name>
+ <outputID>11</outputID>
+ <state>OFF</state>
+ <deviceID>3_5</deviceID>
+</outlet>
+<outlet>
+ <name>Return</name>
+ <outputID>12</outputID>
+ <state>AON</state>
+ <deviceID>3_6</deviceID>
+</outlet>
+<outlet>
+ <name>heater</name>
+ <outputID>13</outputID>
+ <state>AOF</state>
+ <deviceID>3_7</deviceID>
+</outlet>
+<outlet>
+ <name>ATO</name>
+ <outputID>14</outputID>
+ <state>AOF</state>
+ <deviceID>3_8</deviceID>
+</outlet>
+<outlet>
+ <name>UV</name>
+ <outputID>15</outputID>
+ <state>OFF</state>
+ <deviceID>4_1</deviceID>
+</outlet>
+<outlet>
+ <name>caRX_recirc</name>
+ <outputID>16</outputID>
+ <state>AON</state>
+ <deviceID>4_2</deviceID>
+</outlet>
+<outlet>
+ <name>RODI</name>
+ <outputID>17</outputID>
+ <state>AOF</state>
+ <deviceID>4_3</deviceID>
+</outlet>
+<outlet>
+ <name>ATO2</name>
+ <outputID>18</outputID>
+ <state>OFF</state>
+ <deviceID>4_4</deviceID>
+</outlet>
+<outlet>
+ <name>KamoerPump</name>
+ <outputID>19</outputID>
+ <state>AON</state>
+ <deviceID>4_5</deviceID>
+</outlet>
+<outlet>
+ <name>FugeLight</name>
+ <outputID>20</outputID>
+ <state>OFF</state>
+ <deviceID>4_6</deviceID>
+</outlet>
+<outlet>
+ <name>SumpLight</name>
+ <outputID>21</outputID>
+ <state>AON</state>
+ <deviceID>4_7</deviceID>
+</outlet>
+<outlet>
+ <name>DosingPump</name>
+ <outputID>22</outputID>
+ <state>OFF</state>
+ <deviceID>4_8</deviceID>
+</outlet>
+<outlet>
+ <name>PelletFeeder</name>
+ <outputID>24</outputID>
+ <state>AOF</state>
+ <deviceID>6_1</deviceID>
+</outlet>
+<outlet>
+ <name>FlakeFeeder</name>
+ <outputID>25</outputID>
+ <state>AOF</state>
+ <deviceID>7_1</deviceID>
+</outlet>
+<outlet>
+ <name>LinkA_8_1</name>
+ <outputID>26</outputID>
+ <state>AOF</state>
+ <deviceID>8_1</deviceID>
+</outlet>
+</outlets></status>
